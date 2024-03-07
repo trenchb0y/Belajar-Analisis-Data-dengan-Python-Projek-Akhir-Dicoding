@@ -33,7 +33,7 @@ def showCorrelation():
 
     st.pyplot(fig)
 
-df = pd.read_csv("main_data.csv")
+df = pd.read_csv("dashboard/main_data.csv")
 
 st.header(':bike: Bike Sharing Report :bike:')
 
