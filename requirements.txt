@@ -189,7 +189,6 @@ uri-template==1.3.0
 urllib3==2.0.7
 uvicorn==0.18.3
 validators==0.22.0
-vboxapi==1.0
 visions==0.7.5
 watchdog==4.0.0
 wcwidth==0.2.6
