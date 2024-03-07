@@ -4,8 +4,6 @@ Make sure to do the following before running the dashboard
 
 ## Setup environment
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
 ```bash
 conda create --name main-ds python=3.9
 conda activate main-ds
