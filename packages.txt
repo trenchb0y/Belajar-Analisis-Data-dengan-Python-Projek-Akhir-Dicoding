@@ -1,3 +1,1 @@
-apt --fix-broken install
-apt install mpich
 pip install mpi4py
